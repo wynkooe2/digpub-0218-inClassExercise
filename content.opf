@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" unique-identifier="uid" version="3.0" xml:lang="en-US">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:identifier id="uid">url:https://archive.org/details/aesopfables00aesoiala</dc:identifier>
+		<dc:date>2018-07-22T20:25:10Z</dc:date>
+		<meta property="dcterms:modified">2018-09-14T22:31:47Z</meta>
+		<meta property="se:revision-number">3</meta>
+		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
+		<dc:publisher id="publisher">Digital Publishing</dc:publisher>
+		<link href="http://www.idpf.org/epub/a11y/accessibility-20170105.html#wcag-aa" rel="dcterms:conformsTo"/>
+		<meta property="schema:accessMode">textual</meta>
+		<meta property="schema:accessModeSufficient">textual</meta>
+		<meta property="schema:accessibilityFeature">alternativeText</meta>
+		<meta property="schema:accessibilityFeature">longDescription</meta>
+		<meta property="schema:accessibilityFeature">readingOrder</meta>
+		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
+		<meta property="schema:accessibilityFeature">tableOfContents</meta>
+		<meta property="schema:accessibilityHazard">none</meta>
+		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
+		<dc:title id="title">Fables</dc:title>
+		<meta property="file-as" refines="#title">Fables</meta>
+		<dc:subject id="subject-1">Fables, Greek -- Translations into English</dc:subject>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/11339</meta>
+		<meta property="se:subject">Shorts</meta>
+		<dc:description id="description">Aesop’s classic Fables of behaviour and consequence.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;Whether it’s the benefits of taking it slow and steady (“The Tortoise and the Hare”), the necessity of invention (“The Crow and the Pitcher”), or the problems of cognitive dissonance (“The Fox and the Grapes”), Aesop has a fable for every occasion. Aesop lived in Greece in the 6th century BCE, far enough in the past that it’s become impossible to ascribe all these fables to him. Some were certainly retellings of older myths, some share their roots in collections of fables from India and further afield, and many were added well after his time. However, they all share a certain quality of prose that marks them out as belonging to the collection regardless of authorship. It’s that quality, combined with their insight into the human character, that has meant that they’ve stood the test of time for twenty-five centuries.&lt;/p&gt;
+			&lt;p&gt;This collection is the 1912 translation by V. S. Vernon Jones, and is comprised of two hundred and eighty-four of the fables.&lt;/p&gt;
+		</meta>
+		<dc:source>https://www.gutenberg.org/ebooks/11339</dc:source>
+		<dc:source>https://archive.org/details/aesopfables00aesoiala</dc:source>
+		<meta property="se:word-count">39974</meta>
+		<meta property="se:reading-ease.flesch">71.89</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Aesop%27s_Fables</meta>
+		<meta <dc:creator id="author">Aesop</dc:creator>
+		<meta property="file-as" refines="#author">Aesop</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Aesop</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n81066350</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<dc:contributor id="translator">V. S. Vernon Jones</dc:contributor>
+		<meta property="file-as" refines="#translator">Jones, V. S. Vernon</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/nr96034604</meta>
+		<meta property="display-seq" refines="#translator">1</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
+		<dc:contributor id="introduction">G. K. Chesterton</dc:contributor>
+		<meta property="file-as" refines="#introduction">Chesterton, G. K.</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#introduction">https://en.wikipedia.org/wiki/G._K._Chesterton</meta>
+		<meta property="se:url.authority.nacoaf" refines="#introduction">https://id.loc.gov/authorities/names/n79021157</meta>
+		<meta property="display-seq" refines="#introduction">1</meta>
+		<meta property="role" refines="#introduction" scheme="marc:relators">aui</meta>
+		<dc:contributor id="artist">Frans Snyders</dc:contributor>
+		<meta property="file-as" refines="#artist">Snyders, Frans</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Frans_Snyders</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n91006941</meta>
+		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+	</metadata>
+	<manifest>
+		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+		<item href="css/core.css" id="core.css" media-type="text/css"/>
+		<item href="css/local.css" id="local.css" media-type="text/css"/>
+		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
+		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
+		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/fables.xhtml" id="fables.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/introduction.xhtml" id="introduction.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+	</manifest>
+	<spine>
+		<itemref idref="titlepage.xhtml"/>
+		<itemref idref="introduction.xhtml"/>
+		<itemref idref="halftitle.xhtml"/>
+		<itemref idref="fables.xhtml"/>
+		<itemref idref="colophon.xhtml"/>
+	</spine>
+</package>
